@@ -1,6 +1,1 @@
-#lisans olusturarak 
-#ücretsiz jetbrains 
-#PHStorm ve ReSharper 
-#C++ ürünlerini kullanabilirsiniz
-#Coded By HasanAtilan.com
-#HasanAtilan.com
+lisans oluşturarak ücretsiz jetbrains ürünleri olan phpstorm ve resharper ücretsiz kullanabilirsiniz Coded By HasanAtilan
